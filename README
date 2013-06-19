@@ -1,0 +1,16 @@
+add_leading_zero.sh
+	adds leading 0s to make 000.jpg from 0.jpg
+
+download_images.rb
+	from urls, download them and put sequential filename.
+	it is in 3 digits.
+
+flatten_dirs.rb
+	flattens and sequentialize
+
+rm_tailing_whitespace.sh
+rm_tailing_whitespace_filter.sh
+	removes tailing whitespace
+
+uninstall_port.sh
+	uninstalling macports
