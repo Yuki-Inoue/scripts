@@ -14,3 +14,10 @@ rm_tailing_whitespace_filter.sh
 
 uninstall_port.sh
 	uninstalling macports
+
+
+
+
+------
+to_wordle2.cpp
+	to be used with wordle
