@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [ $# != 1 ]
+then
+    echo "Usage: $0 file.bib"
+    exit -1
+fi
+
 TARGET=${1%.bib}.tex
 
 echo '
