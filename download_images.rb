@@ -1,4 +1,4 @@
-#!/opt/local/bin/ruby1.9
+#!/usr/bin/ruby
 
 # get lines of image urls,
 # download them by renaming them
